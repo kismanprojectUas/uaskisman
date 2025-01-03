@@ -6,7 +6,7 @@ package Handphone;
 
 /**
  *
- * @author sanda
+ * @author KISMAN
  */
 public class Hanphoneberaksi {
     public static void main(String[] args) {
