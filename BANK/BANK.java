@@ -6,7 +6,7 @@ package Bank;
 
 /**
  *
- * @author sanda
+ * @author KISMAN
  */
 public class Bank {
     int saldo;
